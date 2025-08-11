@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<h1>Hi, I'm Christophe! <br/><a href="https://github.com/psZh3ePNj0/psZh3ePNj0">Data Professional | AI Learner</a></h1>
+
 
 <!--
 **psZh3ePNj0/psZh3ePNj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
