@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt=" | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt=" | Twitter" width="22px" src="" />][x]
+[<img align="left" alt=" | X" width="22px" src="" />][x]
 
 [linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
 [x]: https://x.com/nN7pG3M6bT7nF2m
