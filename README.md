@@ -10,6 +10,7 @@
 <h2>Application Development Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt=" ChristopheCartwright | LinkedIn" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg"/>][linkedin]
 [<img align="left" alt=" ChristopheCartwright | X" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg"/>][x]
 
