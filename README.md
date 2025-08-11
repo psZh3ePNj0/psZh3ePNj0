@@ -10,11 +10,11 @@
 <h2>Application Development Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" width="22px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg" />][linkedin]
-[<img align="left" width="22px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg" />][x]
+[<img align="left" width="22px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg" />]
+[<img align="left" width="22px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg" />]
 
-[linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
-[x]: https://x.com/nN7pG3M6bT7nF2m
+linkedin: https://www.linkedin.com/in/christophe-cartwright-9197781bb
+x: https://x.com/nN7pG3M6bT7nF2m
 
 
 <!--
