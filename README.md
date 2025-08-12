@@ -9,6 +9,12 @@
 
 <h2>Application Development Projects:</h2>
 
+
+- [Billing -> Provisioning Custom MiddleWare Adapter]
+- [Billing -> Ticketing Custom MiddleWare Adapter]
+- [Billing Online Payment Portal]
+
+
 <h2>Certifications | Education:</h2>
 
 
