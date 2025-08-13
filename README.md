@@ -11,7 +11,7 @@
 
 
 <!--    - [Billing -> Provisioning Custom MiddleWare Adapter] -->
-- [NEXUS: Billing -> Ticketing MiddleWar Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
+- [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
 - [Billing Online Payment Portal]
 
 
