@@ -10,8 +10,8 @@
 <h2>Application Development Projects:</h2>
 
 
-- [Billing -> Provisioning Custom MiddleWare Adapter]
-- [Billing -> Ticketing Custom MiddleWare Adapter]
+<!--    - [Billing -> Provisioning Custom MiddleWare Adapter] -->
+- [NEXUS: Billing -> Ticketing MiddleWar Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
 - [Billing Online Payment Portal]
 
 
