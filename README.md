@@ -12,7 +12,7 @@
 
 <!--    - [Billing -> Provisioning Custom MiddleWare Adapter] -->
 - [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
-<!--    - [Billing Online Payment Portal] -->
+- [CablePay: Billing Online Payment Portal] 
 
 
 <h2>Certifications | Education:</h2>
