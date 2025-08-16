@@ -8,27 +8,28 @@
 <br/>
 
 
-<h2>Database Development | Migration Projects:</h2>
+<h2>Oracle Database Development | Oracle Migration Projects:</h2>
 
-- Critical DBA member on Oracle Automated Table Partitioning and Data Retention.
+- (Financial Services) Critical DBA member Automating Table Partitioning and Data Retention.
   - Table reduction up to 50%
   - Database performance improvements for certain ETL jobs up to 88% 
 
-- Joint Implementation (with WinSys and IT Support) to automate Oracle 21c Client Software Rollout ad remediate Oracle Client Vulnerabilities (Vulnerability Champion Objectives)
+- (Financial Services) Oracle 21c Client Software Rollout Automation
 
-- Implemented data retention policies reducing:
-  - Bahamas Billing CDR data by 57% [877 GB to 380 GB]
-  - Voice Quality Assurance Dept. data by 70.0% [354 GB to 105 GB]
-    
+- (Telecom) Implemented data retention policies reducing:
+  - Telecom Billing CDR data by 57% [877 GB to 380 GB]
+  - Telecom Voice Quality Assurance Dept. data by 70.0% [354 GB to 105 GB]
+
+- (Telecom) Designed and implemented automatic Billing BSS data feeds for BI and Revenue Assurance Depts KPIs.
   
--  Migrated Columbus’ Telecoms legacy data in Caribbean / Latin American markets to Columbus’ modern OSS & BSS systems.
+-  (Telecom) Migrated Columbus’ Telecoms legacy data in Caribbean / Latin American markets to Columbus’ modern OSS & BSS systems.
 
 <br/>
 
 
-<h2>Database Administration:</h2>
+<h2>Oracle Database Administration:</h2>
 
-- [Useful SQL scripts, Shell scripts, Link References]
+- [Useful SQL scripts, Shell scripts, How-Tos and Link References](https://github.com/psZh3ePNj0/Scripts_References)
 <br/>
 
 
