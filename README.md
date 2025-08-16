@@ -9,10 +9,8 @@
 
 <h2>Application Development Projects:</h2>
 
-
-<!--    - [Billing -> Provisioning Custom MiddleWare Adapter] -->
 - [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
-<!--- [CABLEPAY: Billing Online Portal](https://github.com/psZh3ePNj0/OnlineBilling) -->
+- [CABLEPAY: Billing Online Portal](https://github.com/psZh3ePNj0/OnlineBilling)
 
 
 <h2>Certifications | Education:</h2>
