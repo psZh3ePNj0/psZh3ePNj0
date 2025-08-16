@@ -9,10 +9,26 @@
 
 
 <h2>Database Development | Migration Projects:</h2>
+
+- Critical DBA member on Oracle Automated Table Partitioning and Data Retention.
+  - Table reduction up to 50%
+  - Database performance improvements for certain ETL jobs up to 88% 
+
+- Joint Implementation (with WinSys and IT Support) to automate Oracle 21c Client Software Rollout ad remediate Oracle Client Vulnerabilities (Vulnerability Champion Objectives)
+
+- Implemented data retention policies reducing:
+  - Bahamas Billing CDR data by 57% [877 GB to 380 GB]
+  - Voice Quality Assurance Dept. data by 70.0% [354 GB to 105 GB]
+    
+  
+-  Migrated Columbus’ Telecoms legacy data in Caribbean / Latin American markets to Columbus’ modern OSS & BSS systems.
+
 <br/>
 
 
-<h2>Database Administration Projects:</h2>
+<h2>Database Administration:</h2>
+
+- [Useful SQL scripts, Shell scripts, Link References]
 <br/>
 
 
