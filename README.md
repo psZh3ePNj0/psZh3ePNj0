@@ -1,26 +1,34 @@
 
 <h1>Hi, I'm Christophe! <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
+<br/>
+
 
 <h2>AI Learning | Development Projects:</h2>
+<br/>
+
 
 <h2>Database Development | Migration Projects:</h2>
+<br/>
+
 
 <h2>Database Administration Projects:</h2>
+<br/>
+
 
 <h2>Application Development Projects:</h2>
 
 - [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
 - [CABLEPAY: Billing Online Portal](https://github.com/psZh3ePNj0/OnlineBilling)
+<br/>
 
 
 <h2>Certifications | Education:</h2>
-
 
 - [COURSERA: IBM AI DEVELOPER](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_IBM-AI-Developer_CKC.pdf)
 - [COURSERA: UNIVERSITY of MICHICAN: PYTHON FOR EVERYBODY](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_PY4E_CKC.pdf)
 - [ORACLE UNIVERSIRY: ORACLE CERTIFIED ASSOCIATE](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Oracle-Certification.pdf)
 - [MCGILL UNIVERSITY: BSc](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Education.pdf)
-
+<br/>
 
 <!--<h2>Skills | Complimentary Projects:</h2>-->
 
