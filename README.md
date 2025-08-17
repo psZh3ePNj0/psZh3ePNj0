@@ -2,9 +2,26 @@
 <h1>Hi, I'm Christophe! <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
 
 
+<h5>Currently learning:</h5>
+
+- [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
+  
+
+<h5>Launguages and Tools:</h5>
+  
+
+
+<h5>Connect with me:</h5>
+
+[<img align="left" alt=" ChristopheCartwright | LinkedIn" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg"/>][linkedin]
+[<img align="left" alt=" ChristopheCartwright | X" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg"/>][x]
+
+[linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
+[x]: https://x.com/nN7pG3M6bT7nF2m
+<br/>
 <br/>
 
-<h2>AI Learning | Development Projects:</h2>
+<h2>AI Learning | Professional Projects:</h2>
 <br/>
 
 
@@ -50,16 +67,6 @@
 
 <!--<h2>Skills | Complimentary Projects:</h2>-->
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt=" ChristopheCartwright | LinkedIn" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg"/>][linkedin]
-[<img align="left" alt=" ChristopheCartwright | X" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg"/>][x]
-
-[linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
-[x]: https://x.com/nN7pG3M6bT7nF2m
-<br/>
 
 
 
