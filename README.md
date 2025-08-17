@@ -10,21 +10,22 @@
 <h5>Launguages and Tools:</h5>
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/python.jpg" alt=“python” width="40" height="40"/>
+  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/python.jpg" alt=“python” width="65" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/visualStudio.jpg" alt=“visualStudio” width="40" height="40"/>
-<a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/sql_ii.jpg" alt=“sql” width="40" height="40"/>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/oracle.jpg" alt=“oracle” width="40" height="40"/>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/java.jpg" alt=“java” width="40" height="40"/>
-<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/eclipse.jpg" alt=“eclipse” width="40" height="40"/>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="40" height="40"/>
+<a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/sql_ii.jpg" alt=“sql” width="50" height="40"/>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/oracle.jpg" alt=“oracle” width="50" height="40"/>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/java.jpg" alt=“java” width="50" height="40"/>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/eclipse.jpg" alt=“eclipse” width="60" height="40"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="50" height="40"/>
 </a>
 </p>
  
 
 <h5>Connect with me:</h5>
 
-[<img align="left" alt=" ChristopheCartwright | LinkedIn" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg"/>][linkedin]
-[<img align="left" alt=" ChristopheCartwright | X" width="25px" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg"/>][x]
+[<img align="left" alt=" ChristopheCartwright | LinkedIn" width="50" height="40" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/LinkedIn-Image.jpg"/>][linkedin]
+[<img align="left" alt=" ChristopheCartwright | X" width="50" height="40" src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/X-Image.jpg"/>][x]
 
 [linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
 [x]: https://x.com/nN7pG3M6bT7nF2m
