@@ -2,11 +2,15 @@
 <h1>Hi, I'm Christophe!👋 <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
 
 
-<h5>Currently learning:</h5>
+<h5>Currently | Continuously learning:</h5>
 
 - [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
+- Financial Literacy | Alternative Investing | Self Development
   
+<br/>  
 
+<!--<h5>Current work | project[s]: </h5>-->
+<br/>
 
 <h5>Launguages and Tools:</h5>
 
@@ -21,6 +25,16 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="50" height="40"/>
 </a>
 </p>
+<br/>
+
+<h5>Certifications | Education:</h5>
+
+- [COURSERA: IBM AI DEVELOPER](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_IBM-AI-Developer_CKC.pdf)
+- [COURSERA: UNIVERSITY of MICHICAN: PYTHON FOR EVERYBODY](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_PY4E_CKC.pdf)
+- [ORACLE UNIVERSIRY: ORACLE CERTIFIED ASSOCIATE](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Oracle-Certification.pdf)
+- [MCGILL UNIVERSITY: BSc](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Education.pdf)
+<br/>
+
 
 
 <h5>Connect with me:</h5>
@@ -31,50 +45,6 @@
 [linkedin]: https://www.linkedin.com/in/christophe-cartwright-9197781bb
 [x]: https://x.com/nN7pG3M6bT7nF2m
 <br/>
-<br/>
-
-
-<h3 align="center">__________________________________________________________________________</h3>
-
-
-<h5>AI Learning | Professional Projects:</h5>
-<br/>
-
-
-<h5>Oracle Database Development | Migration Projects:</h5>
-
-- (Financial Services) Oracle 21c Client Software Rollout Automation
-
-- (Telecom) Designed and implemented automatic Billing BSS data feeds for BI and Revenue Assurance Depts KPIs.
-  
-
-
-
-<h5>Oracle Database Administration:</h5>
-
-- [Useful SQL scripts, Shell scripts, How-Tos and Link References](https://github.com/psZh3ePNj0/Scripts_References)
-
-
-
-<h5>Application Development Projects:</h5>
-
-- [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
-- [CABLEPAY: Billing Online Portal](https://github.com/psZh3ePNj0/OnlineBilling)
-  
-
-
-<h5>Certifications | Education:</h5>
-
-- [COURSERA: IBM AI DEVELOPER](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_IBM-AI-Developer_CKC.pdf)
-- [COURSERA: UNIVERSITY of MICHICAN: PYTHON FOR EVERYBODY](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_PY4E_CKC.pdf)
-- [ORACLE UNIVERSIRY: ORACLE CERTIFIED ASSOCIATE](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Oracle-Certification.pdf)
-- [MCGILL UNIVERSITY: BSc](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Education.pdf)
-<br/>
-
-<!--<h2>Skills | Complimentary Projects:</h2>-->
-
-
-
 
 
 <!--
