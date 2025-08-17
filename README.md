@@ -1,11 +1,12 @@
 
-<h1>Hi, I'm Christophe! <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
-
+<h1>Hi, I'm Christophe!👋 <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
+<br/>
 
 <h5>Currently learning:</h5>
 
 - [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
   
+
 
 <h5>Launguages and Tools:</h5>
 
@@ -20,7 +21,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="50" height="40"/>
 </a>
 </p>
- 
+
 
 <h5>Connect with me:</h5>
 
@@ -33,6 +34,8 @@
 <br/>
 
 
+<h3 align="center">__________________________________________________________________________</h3>
+<br/>
 
 <h5>AI Learning | Professional Projects:</h5>
 <br/>
