@@ -8,8 +8,15 @@
   
 
 <h5>Launguages and Tools:</h5>
+
 <p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/python.jpg" alt=“python” width="40" height="40"/>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/visualStudio.jpg" alt=“visualStudio” width="40" height="40"/>
+<a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/sql_ii.jpg" alt=“sql” width="40" height="40"/>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/oracle.jpg" alt=“oracle” width="40" height="40"/>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/java.jpg" alt=“java” width="40" height="40"/>
+<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/eclipse.jpg" alt=“eclipse” width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="40" height="40"/>
 </a>
 </p>
  
