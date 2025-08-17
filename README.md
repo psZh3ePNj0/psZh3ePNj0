@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Christophe!👋 <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
-<br/>
+
 
 <h5>Currently learning:</h5>
 
@@ -35,7 +35,7 @@
 
 
 <h3 align="center">__________________________________________________________________________</h3>
-<br/>
+
 
 <h5>AI Learning | Professional Projects:</h5>
 <br/>
@@ -47,20 +47,20 @@
 
 - (Telecom) Designed and implemented automatic Billing BSS data feeds for BI and Revenue Assurance Depts KPIs.
   
-<br/>
+
 
 
 <h5>Oracle Database Administration:</h5>
 
 - [Useful SQL scripts, Shell scripts, How-Tos and Link References](https://github.com/psZh3ePNj0/Scripts_References)
-<br/>
+
 
 
 <h5>Application Development Projects:</h5>
 
 - [NEXUS: Billing -> Ticketing MiddleWare Adapter](https://github.com/psZh3ePNj0/Nexus_Billing_Ticketing)
 - [CABLEPAY: Billing Online Portal](https://github.com/psZh3ePNj0/OnlineBilling)
-<br/>
+  
 
 
 <h5>Certifications | Education:</h5>
