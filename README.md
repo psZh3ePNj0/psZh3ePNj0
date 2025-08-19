@@ -1,4 +1,4 @@
-<!--![Header](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/background_lightcharcoal.jpg)-->
+![Header](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/background_lightcharcoal_sliver.jpg)
 
 <h1>Hi, I'm Christophe!👋 <a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> Data Professional | AI Learner</a></h1>
 
