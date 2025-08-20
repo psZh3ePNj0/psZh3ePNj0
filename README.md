@@ -6,7 +6,7 @@
 <h5>Currently | Continuously learning:</h5>
 
 - [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
-- Financial Literacy | Alternative Investing | Self Development
+- Self Development
   
 <br/>  
 
