@@ -21,7 +21,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/visualStudio.jpg" alt=“visualStudio” width="40" height="40"/>
 <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/sql_ii.jpg" alt=“sql” width="50" height="40"/>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/oracle.jpg" alt=“oracle” width="50" height="40"/>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/java.jpg" alt=“java” width="50" height="40"/>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/java_iii.jpg" alt=“java” width="50" height="40"/>
 <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/eclipse.jpg" alt=“eclipse” width="60" height="40"/>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="50" height="40"/>
 </a>
