@@ -8,8 +8,7 @@
 - [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
 - Self Development
   
-<br/>  
-
+ 
 <!--<h5>Current work | project[s]: </h5>-->
 <br/>
 
