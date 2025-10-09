@@ -32,7 +32,7 @@
 - [COURSERA: IBM AI DEVELOPER](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_IBM-AI-Developer_CKC.pdf)
 - [COURSERA: UNIVERSITY of MICHICAN: PYTHON FOR EVERYBODY](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_PY4E_CKC.pdf)
 - [ORACLE UNIVERSIRY: ORACLE CERTIFIED ASSOCIATE](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Oracle-Certification.pdf)
-- [MCGILL UNIVERSITY: BSc](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Education.pdf)
+- [MCGILL UNIVERSITY: BSc]
 <br/>
 
 
