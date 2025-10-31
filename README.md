@@ -25,6 +25,10 @@
 <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/eclipse.jpg" alt=“eclipse” width="60" height="40"/>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/docker.jpg" alt="docker" width="50" height="40"/>
 </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/microsoft-powerBI.jpg" alt="powerBI" width="50" height="40"/>
+</a>
+
+
 </p>
 <br/>
 
