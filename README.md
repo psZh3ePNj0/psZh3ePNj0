@@ -5,7 +5,8 @@
 
 <h5>Currently | Continuously learning:</h5>
 
-- [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer)
+- [COURSERA: MICROSOFT POWER BI DATA ANALYST](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
+<!--- [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer) -->
 - Self Development
   
  
