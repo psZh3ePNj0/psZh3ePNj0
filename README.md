@@ -7,9 +7,8 @@
 
 <!--- [COURSERA: IBM AI ENGINEER](https://www.coursera.org/professional-certificates/ai-engineer) -->
 - Self Development
-- AI Literacy
-- Data Life Cycle
-  
+- Data Life Cycle Literacy and Skills
+- AI Literacy and Skills
  
 <!--<h5>Current work | project[s]: </h5>-->
 <br/>
