@@ -34,7 +34,7 @@
 
 <h5>Certifications | Education:</h5>
 
-- [COURSERA: MICROSOFT POWER BI DATA ANALYST](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_Microsoft_PowerBI_BusinessAnalyst_CKC.pdf)
+- [COURSERA: MICROSOFT POWER BI DATA ANALYST](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_Microsoft_PowerBI_DataAnalyst_CKC.pdf)
 - [COURSERA: IBM AI DEVELOPER](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_IBM-AI-Developer_CKC.pdf)
 - [COURSERA: UNIVERSITY of MICHICAN: PYTHON FOR EVERYBODY](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Coursera_PY4E_CKC.pdf)
 - [ORACLE UNIVERSIRY: ORACLE CERTIFIED ASSOCIATE](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/Oracle-Certification.pdf)
