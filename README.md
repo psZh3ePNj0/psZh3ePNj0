@@ -1,6 +1,6 @@
 <!--![Header](https://github.com/psZh3ePNj0/psZh3ePNj0/blob/main/background_lightcharcoal_sliver.jpg)-->
 
-<h1>Christophe here!👋<a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> IT Analyst | Data Professional | Lifetime Learner</a></h1>
+<h1>Christophe here👋<a href="https://github.com/psZh3ePNj0/psZh3ePNj0"> IT Analyst | Data Professional | Lifetime Learner</a></h1>
 <br/>
 
 <h5>Currently | Continuously learning:</h5>
